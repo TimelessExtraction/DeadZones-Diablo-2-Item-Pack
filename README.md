@@ -1,5 +1,8 @@
 # DeadZone's Diablo 2 Item Pack
-# Version 1.4 Alpha
+# Version 1.0 Alpha
+
+# Version 0.5 Beta
+Fixed rare orb stats
 
 # Version 0.4 Beta
 1. More Rare items added
